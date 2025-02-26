@@ -1,1 +1,1 @@
-Product: Tablet, Stock: 10
+Product: PC, Stock: 10
